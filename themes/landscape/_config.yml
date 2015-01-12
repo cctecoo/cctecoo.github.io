@@ -1,0 +1,26 @@
+# Header
+menu: #站点右上角导航栏
+  Home: /
+  Archives: /archives
+rss: /atom.xml #生成RSS
+
+# Content
+excerpt_link: Read More #阅读全文
+fancybox: true  #图片效果，默认
+
+# Sidebar
+sidebar: right
+widgets: #站点右边栏
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter: #右边栏要显示twitter展示的话，需要在此设置
+google_plus:
+fb_admins:
+fb_app_id:
