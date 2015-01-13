@@ -84,6 +84,7 @@ exclude_generator:
 plugins:
 - hexo-generator-feed
 
+
 # Deployment #发布
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
