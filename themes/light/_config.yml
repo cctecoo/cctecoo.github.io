@@ -16,20 +16,20 @@ excerpt_link: Read More #阅读全文
 #  show_replies: false
 #  tweet_count: 5
 
-#addthis: #SNS分享
-#  enable: true
-#  pubid:
-#  facebook: true
-#  twitter: true
-#  google: true
-#  pinterest: true
+addthis: #SNS分享
+  enable: false
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
 
 fancybox: true #图片效果，默认
 
 google_analytics:
 
 #comment_provider: facebook
-## Facebook comment
+# Facebook comment
 #facebook:
 #  appid: 123456789012345
 #  comment_count: 5
