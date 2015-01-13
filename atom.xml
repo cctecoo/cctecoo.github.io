@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-01-13T08:48:56.892Z</updated>
+  <updated>2015-01-13T10:18:44.383Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,11 +19,27 @@
     <link href="http://yoursite.com/2015/01/13/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <id>http://yoursite.com/2015/01/13/hexo博客搭建/</id>
     <published>2015-01-13T05:15:19.000Z</published>
-    <updated>2015-01-13T06:28:22.000Z</updated>
-    <content type="html"><![CDATA[<p>以下介绍hexo搭建博客的过程<br><a id="more"></a><br>win7<br>linux ubuntu<br>git node.js hexo</p>
+    <updated>2015-01-13T09:27:08.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="什么是hexo">什么是hexo</h1>
+<h2 id="1">1</h2>
+<h2 id="2">2</h2>
+<h2 id="3">3</h2>
+<blockquote>
+<p>A fast, simple &amp; powerful blog framework, powered by Node.js.</p>
+</blockquote>
+<p>hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github上。<br>自从知道hexo搭blog之后，便爱上了这种程序猿写作方式。经过几番折腾，顺利搞定，以下介绍hexo搭建博客的过程</p>
+<p><a id="more"></a><br>linux ubuntu<br>git node.js hexo</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>以下介绍hexo搭建博客的过程<br>]]>
+    <![CDATA[<h1 id="什么是hexo">什么是hexo</h1>
+<h2 id="1">1</h2>
+<h2 id="2">2</h2>
+<h2 id="3">3</h2>
+<blockquote>
+<p>A fast, simple &amp; powerful blog framework, powered by Node.js.</p>
+</blockquote>
+<p>hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github上。<br>自从知道hexo搭blog之后，便爱上了这种程序猿写作方式。经过几番折腾，顺利搞定，以下介绍hexo搭建博客的过程</p>
+<p>]]>
     
     </summary>
     
