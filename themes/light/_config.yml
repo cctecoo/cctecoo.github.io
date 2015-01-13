@@ -26,7 +26,7 @@ addthis: #SNS分享
 
 fancybox: true #图片效果，默认
 
-google_analytics:
+#google_analytics:
 
 #comment_provider: facebook
 # Facebook comment
