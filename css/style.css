@@ -362,7 +362,7 @@ article .entry dl dl {
 article .entry h1,
 article .entry h2 {
   font-weight: normal;
-  border-bottom: 1px solid #ddd;
+/*border-bottom 1px solid color-border*/
   padding-bottom: 10px;
   margin-top: 20px;
 }
