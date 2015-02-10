@@ -7,8 +7,25 @@ tags: [hexo,]
 > A fast, simple & powerful blog framework, powered by Node.js.
 
 hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github上。
-自从知道hexo搭建blog之后，便爱上了这种程序猿写作方式。经过几番折腾，顺利搞定环境，以下介绍hexo搭建博客的过程
+以下简单介绍hexo搭建博客的过程
 
 <!--more-->
-##linux ubuntu
-安装git node.js hexo
+
+##Linux ubuntu
+install git
+install node.js
+*每次*nvm use 0.10.35(node.js版本号)
+npm install -g hexo
+cd到你的博客文件目录 hexo init初始化
+npm install    //安装依赖包(public里文件是hexo要发布)
+
+Enjoy writing blog!
+
+####**Hexo 常用命令**
+```python
+hexo new
+hexo generate
+hexo server
+hexo develop
+hexo clean
+```
