@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-01-15T03:12:22.315Z</updated>
+  <updated>2015-02-10T07:47:10.999Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,23 +19,28 @@
     <link href="http://yoursite.com/2015/01/13/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <id>http://yoursite.com/2015/01/13/hexo博客搭建/</id>
     <published>2015-01-13T05:15:19.000Z</published>
-    <updated>2015-01-15T02:58:33.000Z</updated>
+    <updated>2015-02-10T07:22:14.000Z</updated>
     <content type="html"><![CDATA[<h2 id="什么是hexo">什么是hexo</h2>
 <blockquote>
 <p>A fast, simple &amp; powerful blog framework, powered by Node.js.</p>
 </blockquote>
-<p>hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github上。<br>自从知道hexo搭建blog之后，便爱上了这种程序猿写作方式。经过几番折腾，顺利搞定环境，以下介绍hexo搭建博客的过程</p>
-<p><a id="more"></a></p>
-<h2 id="linux_ubuntu">linux ubuntu</h2>
-<p>安装git node.js hexo</p>
+<p>hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github上。<br>以下简单介绍hexo搭建博客的过程</p>
+<a id="more"></a>
+
+<h2 id="Linux_ubuntu">Linux ubuntu</h2>
+<p>install git<br>install node.js<br><em>每次</em>nvm use 0.10.35(node.js版本号)<br>npm install -g hexo<br>cd到你的博客文件目录 hexo init初始化<br>npm install    //安装依赖包(public里文件是hexo要发布)</p>
+<p>Enjoy writing blog!</p>
+<h4 id="Hexo_常用命令"><strong>Hexo 常用命令</strong></h4>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">hexo new</div><div class="line">hexo generate</div><div class="line">hexo server</div><div class="line">hexo develop</div><div class="line">hexo clean</div></pre></td></tr></table></figure>
+
 ]]></content>
     <summary type="html">
     <![CDATA[<h2 id="什么是hexo">什么是hexo</h2>
 <blockquote>
 <p>A fast, simple &amp; powerful blog framework, powered by Node.js.</p>
 </blockquote>
-<p>hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github上。<br>自从知道hexo搭建blog之后，便爱上了这种程序猿写作方式。经过几番折腾，顺利搞定环境，以下介绍hexo搭建博客的过程</p>
-<p>]]>
+<p>hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github上。<br>以下简单介绍hexo搭建博客的过程</p>
+]]>
     
     </summary>
     
